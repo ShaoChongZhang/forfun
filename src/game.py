@@ -67,12 +67,12 @@ def deserialization_game(line):
     genres = genres[:-2]
 
     publishers = ""
-    for publisher in dic['publisher']:
+    for publisher in dic['publishers']:
         publishers = publishers + publisher + ", "
     publishers = publishers[:-2]
 
     developers = ""
-    for developer in dic['developer']:
+    for developer in dic['developers']:
         developers = developers + developer + ", "
     developers = developers[:-2]
 

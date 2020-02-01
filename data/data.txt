@@ -1,0 +1,3 @@
+{"title": "three houses", "year": "2019", "month": "07", "date": "26", "genres": ["RPG", "Strategy"], "publishers": ["Nintendo"], "developers": ["Intelligent Systems", "Koei Tecmo"], "nationality": "Japan", "score": 2}
+{"title": "Banner of the Maid", "year": "2019", "month": "05", "date": "27", "genres": ["RPG", "Strategy"], "publishers": ["CE-Asia"], "developers": ["Azure Flame"], "nationality": "China", "score": 3}
+{"title": "missed messages", "year": "2019", "month": "05", "date": "20", "genres": ["AVG"], "publishers": ["Angela He"], "developers": ["Angela He"], "nationality": "the U.S.", "score": 2}
